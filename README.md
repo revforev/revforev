@@ -44,7 +44,7 @@
 
 - 📓 For an account of what I have learned during the Web Design & Content Planning MA at the University of Greenwich: [coursework page](https://andrefuel.com/)
 
-- 🎹 Music: [bandcamp] (https://revdoesbeats.bandcamp.com/)
+- 🎹 Music: [bandcamp](https://revdoesbeats.bandcamp.com/)
 
 <br>
 
