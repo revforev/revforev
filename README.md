@@ -1,7 +1,7 @@
 <br>
 <h1 align="center">Hi I'm Andrei</h1>
 <br>
-<h2 align="center">I'm a junior software developer and UX/UI specialist</h2>
+<h2 align="center">I'm a junior web and software developer</h2>
 <br>
 
 
