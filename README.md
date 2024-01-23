@@ -13,7 +13,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="javascript logo" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/768px-JavaScript-logo.png" alt="javascript logo" width="40" height="40"/> 
   </a> 
   <a href="https://en-gb.wordpress.org/" target="_blank" rel="noreferrer"> 
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGOdpfTINN7ozdHWo2UYAvq9akbCqEIwyBa7icxcuhWwDZJ9ZSnPWV7PMpMj67fPONeWY&usqp=CAU" alt="sqlite" width="40" height="40"/> 
