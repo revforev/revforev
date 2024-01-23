@@ -32,7 +32,11 @@
 
 ## Work:
 
-- 👋 Introduction website made for FAC30a: [intro-site](https://github.com/revforev/revforev.github.io)
+- 🌱 I'm currently learning in the Software Foundation programme via [Founders and Coders](https://www.foundersandcoders.com/) 
+
+- 🕳️ Teleportation agency website made for FAC30a: [waypoint travelling](https://github.com/fac30/ali-andrei-agency)
+
+- 👋 Introduction website made for Founders and Coders: [intro-site](https://github.com/revforev/revforev.github.io)
 
 - 🍳 Major Project website for my MA with a custom **Wordpress** theme: [freestyle cooking](https://github.com/revforev/freestyle-cooking-theme)
 
