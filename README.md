@@ -38,7 +38,7 @@
 
 - 👋 Introduction website: [intro-site](https://github.com/revforev/revforev.github.io)
 
-- 🍳 Major Project website for my MA with a custom **Wordpress** theme: [freestyle cooking](https://github.com/revforev/freestyle-cooking-theme)
+- 🍳 Non profit home cooking guide with a custom **Wordpress** theme: [freestyle cooking](https://github.com/revforev/freestyle-cooking-theme)
 
 - 🍽️ Recipe sorting app wih **React** and **Open API**, using the Tasty API: [zest](https://github.com/chingu-voyages/v46-tier2-team-16)
 
