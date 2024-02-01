@@ -46,7 +46,7 @@
 
 - 🎮 A trivia art game made in vanilla Javascript [dungeons and deadlines](https://github.com/revforev/dungeons-and-deadlines-fac)
 
-- 📓 For an account of what I have learned during the Web Design & Content Planning MA at the University of Greenwich: [coursework page](https://andrefuel.com/)
+- 📓 For an account of what I have learned during the University of Greenwich: [coursework page](https://andrefuel.com/)
 
 - 🎹 Music: [bandcamp](https://revdoesbeats.bandcamp.com/)
 
