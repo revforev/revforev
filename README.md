@@ -38,7 +38,7 @@
 
 ## Work:
 
-- 🌱 Graduate of the Software Foundation programme [Founders and Coders](https://www.foundersandcoders.com/) 
+- 🌱 Alumni of the Software Foundation programme [Founders and Coders](https://www.foundersandcoders.com/) 
 
 - 🍳 Full stack cooking guide using **PHP** and **SQL**: [freestyle cooking](https://github.com/revforev/freestyle-cooking-theme)
 
