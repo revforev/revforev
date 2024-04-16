@@ -46,7 +46,7 @@
 
 - 💌 UI and Web Development for an incubator finalist NGO's website: [eros](https://github.com/revforev/Eros-Website)
 
-- 🎮 Full stack trivia art game [dungeons and deadlines](https://github.com/revforev/dungeons-and-deadlines-fac)
+- 🎮 Full stack trivia art browser game [dungeons and deadlines](https://github.com/revforev/dungeons-and-deadlines-fac)
 
 - 📓 For an account of my Web Design MA Coursework at the University of Greenwich: [coursework page](https://andrefuel.com/)
 
