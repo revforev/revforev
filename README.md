@@ -38,23 +38,17 @@
 
 ## Work:
 
-- 🌱 I'm currently learning in the Software Foundation programme via [Founders and Coders](https://www.foundersandcoders.com/) 
+- 🌱 Graduate of the Software Foundation programme [Founders and Coders](https://www.foundersandcoders.com/) 
 
-- 🕳️ Teleportation agency website made for FAC30a: [waypoint travelling](https://github.com/fac30/ali-andrei-agency)
+- 🍳 Full stack cooking guide using **PHP** and **SQL**: [freestyle cooking](https://github.com/revforev/freestyle-cooking-theme)
 
-- 👋 Introduction website: [intro-site](https://github.com/revforev/revforev.github.io)
+- 🍽️ Recipe sorting app wih **React** and **Redux**, using the Tasty API: [zest](https://github.com/chingu-voyages/v46-tier2-team-16)
 
-- 🍳 Non profit home cooking guide with a custom **Wordpress** theme: [freestyle cooking](https://github.com/revforev/freestyle-cooking-theme)
+- 💌 UI and Web Development for an incubator finalist NGO's website: [eros](https://github.com/revforev/Eros-Website)
 
-- 🍽️ Recipe sorting app wih **React** and **Open API**, using the Tasty API: [zest](https://github.com/chingu-voyages/v46-tier2-team-16)
-
-- 💌 UX/UI and Typography for an incubator finalist NGO's website: [eros](https://github.com/revforev/Eros-Website)
-
-- 🎮 A trivia art game made in vanilla Javascript [dungeons and deadlines](https://github.com/revforev/dungeons-and-deadlines-fac)
+- 🎮 Full stack trivia art game [dungeons and deadlines](https://github.com/revforev/dungeons-and-deadlines-fac)
 
 - 📓 For an account of what I have learned during the University of Greenwich: [coursework page](https://andrefuel.com/)
-
-- 🎹 Music: [bandcamp](https://revdoesbeats.bandcamp.com/)
 
 <br>
 
