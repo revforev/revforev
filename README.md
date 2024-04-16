@@ -50,7 +50,7 @@
 
 - 🎮 Full stack trivia art browser game [dungeons and deadlines](https://github.com/revforev/dungeons-and-deadlines-fac)
 
-- 📓 For an account of my Web Design MA Coursework at the University of Greenwich: [coursework page](https://andrefuel.com/)
+- 📓  Web Design MA Coursework at the University of Greenwich: [coursework page](https://andrefuel.com/)
 
 <br>
 
