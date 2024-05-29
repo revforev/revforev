@@ -4,7 +4,7 @@
 <h2 align="center">I'm a front end developer</h2>
 <br>      
               
-<p align="center">  
+<p align="center">   
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/React_Logo_SVG.svg/180px-React_Logo_SVG.svg.png" alt="react logo" width="40" height="40"/> 
   </a> 
