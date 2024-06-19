@@ -2,7 +2,7 @@
 <h1 align="center">Hi I'm Andrei</h1>
 <br>
 <h2 align="center">I'm a front end developer</h2>  
-<br>           
+<br>            
                   
 <p align="center">   
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
