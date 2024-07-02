@@ -1,6 +1,6 @@
 <br>
 <h1 align="center">Hi I'm Andrei</h1>
-<br>
+<br> 
 <h2 align="center">I'm a front end developer</h2>   
 <br>             
                      
